@@ -1,0 +1,15 @@
+# Recovered values and password-auditing tool state
+*.hash
+*.pot
+*.rec
+hash*.txt
+john.pot
+
+# Local configuration and temporary files
+.env
+.env.*
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini
+.DS_Store
