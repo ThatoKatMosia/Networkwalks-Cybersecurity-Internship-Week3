@@ -51,7 +51,7 @@ local file paths, and machine-specific settings.
 
 ## Evidence
 
-Screenshots are not included because the supplied captures expose challenge
-values and/or local environment details. See
-[`../evidence/README.md`](../evidence/README.md) for safe evidence-handling
-guidance.
+Sanitized copies of the supplied screenshots are available in the
+[`evidence/README.md`](../evidence/README.md) gallery. Passwords, hashes, flags,
+local paths, and device details are covered in the repository copies; the
+original attachments remain unchanged.
